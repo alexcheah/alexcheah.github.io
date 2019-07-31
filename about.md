@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! Here's Alex Cheah! 
 
 ### More Information
 
