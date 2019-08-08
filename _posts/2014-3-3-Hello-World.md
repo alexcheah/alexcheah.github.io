@@ -1,10 +1,5 @@
+# Hey! This is my first blog! 
 ---
-layout: post
-title: You're up and running!
----
+Hello everyone in the world. My name is Alex Cheah, a programming starter. It's my significant moment in my life. Finally, I have my own blog and my new personal site. Thanks to the modern technologies. I can't wait to learn more in the ocean of digital world! 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hello there! Hello world! 
